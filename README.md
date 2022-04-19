@@ -1,4 +1,4 @@
-## Hello, World!
+## Hello, World! :earth_americas:
 
 <!--
 **Yuliya1303/Yuliya1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Yuliya. I,m **QA Engineer**.
+My name is Yuliya. I,m **QA Engineer** during 5 years.
+
+#### Languages 
+- Russian (native)
+- English (B2)
+- Poland (B1)
 
 ### My education experience:
 <table width="100%" border='0'>
@@ -27,3 +32,7 @@ My name is Yuliya. I,m **QA Engineer**.
    </tr>
   </table>
   </br>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuliya1303)](https://github.com/Yuliya1303/github-readme-stats)
+ 
+ 
