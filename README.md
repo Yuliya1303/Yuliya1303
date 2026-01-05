@@ -32,7 +32,5 @@ My name is Yuliya. I,m **QA Engineer** during 8 years.
    </tr>
   </table>
   </br>
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuliya1303)](https://github.com/Yuliya1303/github-readme-stats)
  
  
