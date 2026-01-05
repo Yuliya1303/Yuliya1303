@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Yuliya. I,m **QA Engineer** during 5 years.
+My name is Yuliya. I,m **QA Engineer** during 8 years.
 
 #### Languages 
 - Russian (native)
 - English (B2)
-- Poland (B1)
+- Poland (A2)
 
 ### My education experience
 <table width="100%" border='0'>
